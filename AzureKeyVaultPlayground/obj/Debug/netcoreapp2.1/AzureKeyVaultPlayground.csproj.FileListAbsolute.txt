@@ -1,0 +1,12 @@
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\bin\Debug\netcoreapp2.1\AzureKeyVaultPlayground.deps.json
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\bin\Debug\netcoreapp2.1\AzureKeyVaultPlayground.runtimeconfig.json
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\bin\Debug\netcoreapp2.1\AzureKeyVaultPlayground.runtimeconfig.dev.json
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\bin\Debug\netcoreapp2.1\AzureKeyVaultPlayground.dll
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\obj\Debug\netcoreapp2.1\AzureKeyVaultPlayground.csprojAssemblyReference.cache
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\obj\Debug\netcoreapp2.1\AzureKeyVaultPlayground.csproj.CoreCompileInputs.cache
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\obj\Debug\netcoreapp2.1\AzureKeyVaultPlayground.AssemblyInfoInputs.cache
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\obj\Debug\netcoreapp2.1\AzureKeyVaultPlayground.AssemblyInfo.cs
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\bin\Debug\netcoreapp2.1\AzureKeyVaultPlayground.pdb
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\obj\Debug\netcoreapp2.1\AzureKeyVaultPlayground.dll
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\obj\Debug\netcoreapp2.1\AzureKeyVaultPlayground.pdb
+C:\Users\Foysal\source\repos\AzureKeyVaultPlayground\AzureKeyVaultPlayground\obj\Debug\netcoreapp2.1\AzureKeyVaultPlayground.genruntimeconfig.cache
