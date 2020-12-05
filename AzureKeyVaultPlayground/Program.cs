@@ -15,6 +15,9 @@ namespace AzureKeyVaultPlayground
 
         // This is available as "DNS Name" from the overview page of the Key Vault.
         const string KEYVAULT_BASE_URI = "";
+        
+        // Secret name set on Azure
+        const string KEYVAULT_SECRET_NAME = "";
 
         async static Task Main(string[] args)
         {
@@ -37,7 +40,8 @@ namespace AzureKeyVaultPlayground
 
             // Calling GetSecretAsync will trigger the authentication code above and eventually
             // retrieve the secret which we can then read.
-            var secretBundle = await kvc.GetSecretAsync(KEYVAULT_BASE_URI, "StpBarclaysPublicKey");
+            var secretBundle = await kvc.GetSecretAsync(KEYVAULT_BASE_URI, KEYVAULT_SECRET_NAME);
+            
             Console.WriteLine("Secret:" + secretBundle.Value);
             Console.ReadKey();
         }
